@@ -1,4 +1,4 @@
-# 🔬 Análise Espacial e Volumétrica de Projetos: Engenharia de Software e Dados em Escala
+# 🔬 Análise Espacial e Volumétrica de Projetos: Engenharia de Software e Dados em Escala 
 
 ## Elias Andrade | Next-Gen System & Data Architect: Sustentando 360° de Decisão no Negócio
 
